@@ -1,2 +1,2 @@
 # PythonProgams
-Basic Python programs performed in class.
+Python programs performed in class.
